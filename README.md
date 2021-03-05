@@ -1,0 +1,2 @@
+# pokefusion-script
+Serious shit
