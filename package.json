@@ -1,0 +1,18 @@
+{
+  "name": "pokefusion-script",
+  "version": "1.0.0",
+  "description": "serious shit",
+  "main": "index.js",
+  "repository": "https://github.com/BaptisteDeporte/pokefusion-script.git",
+  "author": "Baptiste Déporté <Baptiste Déporté>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "@babel/core": "^7.13.8",
+    "@babel/node": "^7.13.0",
+    "base64-img": "^1.0.4",
+    "crop-node": "^2.1.0",
+    "puppeteer": "^8.0.0"
+  },
+  "type": "module"
+}
